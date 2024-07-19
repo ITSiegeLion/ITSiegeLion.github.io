@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - hexo  # 或者你希望部署的其他分支
+      - hexo 
 
 jobs:
   deploy:
